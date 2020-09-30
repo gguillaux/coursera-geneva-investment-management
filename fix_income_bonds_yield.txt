@@ -1,0 +1,78 @@
+Hi, I'm Thomas Wacker.
+I'm leading the Credit Research Department at the Chief Investment Office at UBS.
+In this session we're going to talk about investing in bonds.
+Global debt markets are actually about three times as large
+as the global stock market.
+That gives investors plenty of choice.
+The largest part of the debt market is in the form of bonds
+issued by governments and companies.
+There are various kinds of bond structures and
+bond types and there is virtually no year without an innovation in this market.
+The vast majority of bonds, however, has a fairly simple structure.
+It is a fixed term until you get the principal back, and it has a fixed
+interest payment, which we call a coupon, that you receive periodically.
+Bonds are usually issued and redeemed at 100% of their face value.
+In this case, the yield is the same as the coupon.
+But the fair yield for a bond can change during its life, and so does its price.
+The yield should basically compensate you for two things.
+A loss of purchasing power, as you lend your money out for quite a while, and
+the risk that you don't get it back.
+The expected loss of purchasing power of money,
+that's a key driver of what we call risk-free interest rates.
+Usually, we look at a reference issue, for what is called the risk-free rate.
+So like use treasuries for the dollar market.
+Or German bonds for the Euros.
+The key risk, that a bond investor needs to consider, Is that the issuer,
+whether a company or a government, will be unable or unwilling to pay its debt.
+The most common reference point for this risk are credit ratings.
+As they are provided by agencies, like Standard and Poor's, Moody's, or Fitch.
+Of course, unexpected developments can always turn
+what we thought was a good credit, into a bad one.
+But at least historical evidence suggests that issuers with high credit ratings
+have defaulted on their debt in much less cases than lower rated ones.
+The difficult part now is judging the appropriate additional reward.
+That an investor should demand for investing into a higher risk issuer.
+This compensation varies and
+it is often driven by similar factors that also move the stock market.
+A positive outlook for the economy usually results in lower bond risk premiums.
+Other drivers can have opposite effects on stocks and bonds.
+For example M and A transactions or share re-purchases.
+They're often good for the stock, but they're bad for
+the bonds, so if we put pieces together again,
+the risk-free interest rate plus the risk premium, that's the yield of a Bond.
+Now let's get back to what is the worst case for you as a bond holder.
+And it's a default by the issuer.
+It will then stop paying interest and it either tries to negotiate
+some partial depth forgiveness with its bond holders or it goes into liquidation.
+For governments, liquidation is clearly no option.
+So, they will always negotiate with bond holders.
+Which can go on for several years, like examples of Argentina which
+defaulted in 2004 and it still has pending lawsuits with its bond owners.
+On average, investors only recover about 30% of the nominal value
+if a company defaults and
+they may need to wait years to receive payments in case of liquidation.
+For Lehman brothers which was the big headline default
+of the financial crisis 2008.
+Liquidation is still on going today.
+But investing in lower quality credit, you need to be very careful not only one
+selecting in the issue but even more when finding the right instrument.
+Companies offering issue different types of bonds, and in some cases,
+reading the bond prospectus is really the only way to
+find out about instrument-specific risks and special features.
+Trading bonds is also quite different from trading stocks.
+Bonds are often not traded on exchanges, but between broker dealers.
+Which makes it harder for a private investor
+to observe a price level at which a bond can effectively be bought or sold.
+Many institutional investors buy bonds at the time when they're issued, and
+they keep them until the final maturity date.
+So there can be almost no secondary market transactions in some of the bonds,
+which obviously makes it very difficult to liquidate a position
+ahead of its redemption.
+So as a consequence, if you are holding a lower quality bond
+it is even more risky if this bond is also a liquid.
+Bond markets may not always be perfectly efficient but
+my number one investment advice for
+you is to be most suspicious when a bounty of looks excessively attractive.
+There's almost always a good reason for this.
+You can earn an extra yield, if you pick the right bonds but
+you are clearly not paid for being a hero in bond markets.

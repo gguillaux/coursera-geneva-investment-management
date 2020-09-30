@@ -1,0 +1,78 @@
+
+I'm Brian Nick,
+a strategist in our Chief Investment Office at UBS Wealth Management Americas.
+Today I would like to talk to you about a concept I worked with everyday,
+risk-adjusted return If you've watched my colleagues in prior videos you're
+familiar with a few different definitions of risk.
+To recap quickly the most common measure of risk in investing is standard
+deviation.
+Standard deviation tells us the range of terms in which investors can expect about
+two thirds of observed returns to fall.
+We say asset classes are risky when they have higher standard deviation.
+And we expect those asset classes to deliver higher returns on average
+than others that may have little to no market risk.
+That brings us to the concept of risk adjusted return,
+which allows us to compares apples to oranges in a sense.
+By adjusting either historical or expected return on an asset class for
+a degree of risk, we can compare, for instance, US treasuries,
+to US equities when deciding how to invest.
+If we were to invest solely based on maximizing return,
+we would probably prefer US equities almost all the time.
+But if our goal was to minimize risk, US treasuries seem the more prudent choice.
+Risk-adjusted return allows us to combine these concepts, and
+there are many ways to measure it.
+Today I'll summarize just one example, the Sharpe ratio.
+The Sharpe ratio measures units of expected excess return per
+unit of volatility.
+Excess return is simply the return we've received or expect to receive over and
+above the risk free rate.
+These days in most parts of the world this calculation is quite easy
+because risk free rates are close to zero.
+A high Sharpe ratio indicates a high risk adjusted return,
+while a low Sharpe ratio indicates a low risk adjusted return.
+I'll demonstrate how the calculation works by using the two asset
+classes I mentioned earlier.
+Let's say that US treasuries had given us a return of 3% with
+a volatility of 5% while the risk free rate was 1%.
+That would make the Sharpe ration 0.4- 2% divided by 5%.
+Now let's say that US equities returned 14% with a volatility of 10%,
+similar to their return in 2014.
+That would give us a Sharpe ratio of 1.3, 13% divided by 10%.
+1.3 beats 0.4.
+In this example, equities have delivered a far superior risk adjusted return.
+If only that were always the case, our job would be easy.
+So why do risk of asset return matter?
+Why wouldn't an investor prefer a return maximizing portfolio with 100% in
+risky assets?
+After all over time master strategy is performed very well.
+But problem with this is most of us now is that very volatile investment strategies
+are often difficult for investors to stick with when times get tough.
+So including other asset classes with positive sharp ratios but
+lower expected returns is optimal for nearly all investors.
+By doing this we sacrifice higher returns for higher risk adjusted returns and
+in all likelihood increase the probability we stick to our investment plans and
+meet our financial goals.
+Risk adjusted return is particularly important for
+investors in portfolio returns make up a large portion of their total income
+such as those at or near retirement.
+These investors are subject to what we call sequence risk.
+Because they must withdraw from their portfolios over time, they care very much
+about their sequence of the returns they receive on their investments.
+Significant losses in the first few years of retirement, can make it difficult for
+investors to meet their financial goals.
+For example, those who retired in 2007, and
+began withdrawing from their portfolios,
+could have found their invested assets cut in half after just one year.
+But their cashflow needs unchanged.
+Depending on how much they withdraw each year.
+This could've been a significant obstacle,
+to sustain their standard of living throughout retirement.
+Designing a portfolio with risk-adjusted return in mind may sacrifice some upside
+in order to avoid the kind of volatility or
+drawdowns that can knock investors off the course.
+I hope you've found this video helpful.
+Investors who internalize the concept of risk-adjusted return
+are well on their way to understanding how to build an asset allocation,
+benefit from diversification within and across asset classes, and
+give themselves a smoother investing ride than they would otherwise have had.
+Thank you again for watching. 

@@ -38,3 +38,15 @@
 
 3. Alternatively, if the content if you find the content of this second part too difficult or too long, here is a brief summary:
 	* http://www.cfapubs.org/doi/pdf/10.2469/dig.v35.n3.1702
+---
+
+# Module 4
+## The added value of central banks' unconventional policies
+Nice work, you're just about to finish Lesson 1 of Module 4!
+Here is the link to the recommended reading for this Module:
+* https://www.ecb.europa.eu/press/key/date/2009/html/sp090428.en.html
+* In this keynote lecture from 2009, Lorenzo Bini Smaghi, Member of the Executive Board of the European Central Bank (ECB), goes over the following issues:
+	1. Why implement unconventional policies?
+    2. The main characteristics of unconventional policies
+    3. How unconventional policies are implemented
+    4. The exit strategy (i.e. when and how to stop unconventional policies)
